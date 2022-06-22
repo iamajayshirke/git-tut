@@ -5,6 +5,7 @@ function Feature1() {
     <>
     <div>Feature1</div>
     <h1>New Features Here</h1>
+    <h1>New Features 2.1 Here</h1>
     </>
   )
 }
